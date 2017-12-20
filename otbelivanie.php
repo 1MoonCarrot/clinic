@@ -7,6 +7,7 @@
 		<meta name="keywords" content="стоматология выборгский район, стоматологическая клиника, стоматология, лечение зубов">
         <title>Стоматологическая клиника Выборгского района Санкт-Петербурга ООО «Стоматологическая клиника - Кутузова»</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="stylesmobile.css">
 	</head>
 
 	

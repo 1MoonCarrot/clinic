@@ -7,6 +7,7 @@
 		<meta name="keywords" content="стоматология выборгский район, стоматологическая клиника, стоматология, лечение зубов">
         <title>Стоматологическая клиника Выборгского района Санкт-Петербурга ООО «Стоматологическая клиника - Кутузова»</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="stylesmobile.css">
 	</head>
 
 	
@@ -40,7 +41,7 @@
 					<div class="about-vrachi">
 						<p class="main-zagolovki">Наши специалисты:</p>
 						<div class="Kytyzova">
-							<p><img src="images/Kytyzova.jpg" alt="Кутузова Ирина Ильинична"></p>
+							<div class="about-vrachi-img"><img src="images/Kytyzova.jpg" alt="Кутузова Ирина Ильинична"></div>
 							<p> Доктор Кутузова Ирина Ильинична.</p>
 							<p> Директор, врач-стоматолог-терапевт.</p>
 							<p>Стаж работы 24 года.</p>
@@ -55,7 +56,7 @@
 						</div>
 						<br>
 						<div class="Bryeva">
-							<p><img src="images/Bryeva.jpg" alt="Бруева Лолита"></p>
+							<div class="about-vrachi-img"><img src="images/Bryeva.jpg" alt="Бруева Лолита"></div>
 							<p>Доктор Бруева Лолита Витальевна.</p>
 							<p>Врач-стоматолог-ортопед.</p>
 							<p>Стаж работы 31 год.</p>
