@@ -334,27 +334,24 @@ h1{
 }
 .prisetable {
 	border: 2px solid green;
-	display: flex;
-	align-items:center;
-	justify-content:center;
- }
+	border-collapse: collapse;
+	width: 100%;
+}
  .tabletd1{
+	border: 2px solid green;
 	padding:5px 10px;
 	width: 30%;
-	word-wrap: break-word;
- }
+}
  .tabletd2{
-	border-left: 2px solid green;
-	border-right: 2px solid green;
+	border: 2px solid green;
 	padding:5px 10px;
 	width: 60%;
-	word-wrap: break-word;
- }
+}
  .tabletd3{
+	border: 2px solid green; 
 	padding:5px 10px;
 	width: 10%;
-	word-wrap: break-word;
- }
+}
 /* Конец страницы прайс */
 
 

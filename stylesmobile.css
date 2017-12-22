@@ -171,15 +171,21 @@ h1{
 /* Прайс */
 .prisetable-wrap{}
 .prisetable-wrap-second{}
-.prisetable {}
+.prisetable {max-width: 100%;}
 .tabletd1{
 	padding:2px 2px;width: 30%;
+	word-wrap: break-word;
+	word-break: break-all;
 }
  .tabletd2{
-	padding:2px 2px;width: 40%;
+	padding:2px 2px;width: 50%;
+	word-wrap: break-word;
+	word-break: break-all;
 }
  .tabletd3{
 	padding:2px 2px;width: 20%;
+	word-wrap: break-word;
+	word-break: break-all;
 }
 /* Конец страницы прайс */
 
