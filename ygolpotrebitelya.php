@@ -5,7 +5,8 @@
         <meta charset="UTF-8">
 		<meta name="description" content="Стоматология Выборгский район Петербурга, стоматологическая клиника в Выборгском районе Петербурга">
 		<meta name="keywords" content="стоматология выборгский район, стоматологическая клиника, стоматология, лечение зубов">
-        <title>Стоматологическая клиника Выборгского района Санкт-Петербурга ООО «Стоматологическая клиника - Кутузова»</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Стоматологическая клиника Выборгского района Санкт-Петербурга ООО «Стоматологическая клиника - Кутузова»</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
 		<link rel="stylesheet" type="text/css" href="stylesmobile.css">
 		
